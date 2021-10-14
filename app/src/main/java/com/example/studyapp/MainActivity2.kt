@@ -12,11 +12,11 @@ class MainActivity2 : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main2)
         al = arrayListOf(
-            Items("RecyclerView","using with array list or list"),
-            Items("SharedPrefrences","to save item locally"),
-            Items("Toast","to show amassege in some cases"),
-            Items("Alert Dialog","to show alert"),
-            Items("Intent","To go to another mainactivity")
+            Items("For Loops"," need something to happen multiple times"),
+            Items("While Loops","similar to For Loops."),
+            Items("When","perform a check in a more concise way "),
+            Items("Try/Catch","Error handling is a major part of programming."),
+            Items("If Statements","one of the most fundamental aspects of programming.")
         )
         rv = findViewById(R.id.rv)
         rv.adapter?.notifyDataSetChanged()
