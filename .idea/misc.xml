@@ -3,10 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable-v24/etbg.xml" value="0.2296875" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.16" />
-        <entry key="app/src/main/res/layout/activity_main2.xml" value="0.11666666666666667" />
+        <entry key="app/src/main/res/layout/activity_main2.xml" value="0.14" />
         <entry key="app/src/main/res/layout/activity_main3.xml" value="0.11666666666666667" />
+        <entry key="app/src/main/res/layout/activity_main4.xml" value="0.1037037037037037" />
         <entry key="app/src/main/res/layout/cards.xml" value="0.11666666666666667" />
+        <entry key="app/src/main/res/layout/dialog1.xml" value="0.103125" />
       </map>
     </option>
   </component>
